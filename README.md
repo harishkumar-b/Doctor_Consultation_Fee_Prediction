@@ -21,9 +21,8 @@
 - [Doctor's_Fee_Prediction.ipynb](https://github.com/harishkumar-b/Doctor_Consultation_Fee_Prediction/blob/main/%233_Doctor's_Fee_Prediction.ipynb)
 
 ## Deployed model:
-- Below is a snapshot of the predictor page.
-![]()
-- [Try]()!
+- Below is a snapshot of the predictor page. [Try it](https://doctor-fee-predictor.herokuapp.com/)!
+![](https://github.com/harishkumar-b/Doctor_Consultation_Fee_Prediction/blob/main/Deployment_snap.jpg)
 
 ## Contributors: 
 - [Harish](https://www.linkedin.com/in/harish-kumar-bommadene/).
