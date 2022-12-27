@@ -6,7 +6,7 @@
 
 ## About dataset:
 - Dataset is gathered from Practo. The following is the metadata of the dataset.
-![](https://github.com/harishkumar-b/Doctor_Consultation_Fee_Prediction/blob/main/Data%20files/metadata.jpg)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de361f34-8b69-41e2-a01e-adecab59a8ad/metadata.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221227T154837Z&X-Amz-Expires=86400&X-Amz-Signature=f099386693924e3cdcc40622458e520616e896dda7fb4220dc58daa66ef017e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22metadata.jpg%22&x-id=GetObject)
 
 ## Tech stack used:
 - Python and following mentioned libraries.
